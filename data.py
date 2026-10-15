@@ -1,0 +1,8 @@
+a=int(90)
+b=float(20)
+c=str("hello")
+d=bool(" ")
+print(a)
+print(b)
+print(c)
+print(d)
